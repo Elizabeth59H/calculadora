@@ -22,6 +22,6 @@ Calculadora Simple
 2. Restar
 3. Multiplicar
 4. Dividir
-Elige una opción (1-4):
+Elige una opción colocando el número del indicador (1-4):
 ```
- 
+ Sigue completando con los números que deseas operar y tendras los resultados
