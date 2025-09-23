@@ -2,8 +2,6 @@
 Es un proyecto es una calculadora en Python que permite sumar, restar, multiplicar y dividir dos números
 
 
-
-
 ## Uso
 
 1. Ejecuta el archivo:
